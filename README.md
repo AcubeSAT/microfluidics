@@ -4,6 +4,8 @@ A repository to host microfluidic chip design schematics and fabrication procedu
 
 The designs are heavily based on published ones from the [Laboratory of Biological Network Characterization](http://lbnc.epfl.ch/index.html) (LBNC) in EPFL.
 
+![](https://gitlab.com/acubesat/su/microfluidics/-/raw/master/assets/final.png "final AcubeSAT PDMS chip design")
+
 ## Resources
 
 * Protocols and workflows for the wet lab/microfluidic experiments can be found [here](https://benchling.com/organizations/acubesat/).
