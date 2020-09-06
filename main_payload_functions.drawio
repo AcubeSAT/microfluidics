@@ -1,1 +1,93 @@
-<mxfile host="app.diagrams.net" modified="2020-09-06T21:04:22.537Z" agent="5.0 (Windows)" etag="PKZ5lOic65ZxRYmpP_Ro" version="13.6.6" type="gitlab"><diagram id="VCCEHMZqeCSB69VW6X31" name="Page-1">5Vpbd+I2EP41PIbj++UxkOy23aab06Tt9qlHi4VRa1usLALsr+/IkrFlGwLE4N2zPCTWaHSby6dvDCN7mm7eM7RcPNAIJyPLiDYj+25kWaZjmPBPSLZSErqOFMSMREqpEjyRr1gJDSVdkQjnmiKnNOFkqQtnNMvwjGsyxBhd62pzmuirLlGMW4KnGUra0r9IxBdSGrhGJf8Jk3hRrmwaqidFpbIS5AsU0XVNZN+P7CmjlMundDPFiTBeaRc57t2e3t3GGM74MQMepsnjahH98s/XRYw+/vb8fkL+vCnN/IKSlTqx2i3flibAEVhENSnjCxrTDCX3lXTC6CqLsFjHgFal8yulSxCaIPwXc75V7kUrTkG04GmieuEIbPtJjB+7ZfPvet/dRk0uW1vVknsVG9xrFCXK6YrNlJb3cf1sbD/8vg7SIPrj+UOIvtzfqHNzxGLMD1jM3rkOYh7TFMN+YBzDCeLkRd8HUsEX7/R2Qx8pgR1ahkoUx7Xg5MWg7S519EnkztS4ys+3jKFtTW0pFPL9K1leoK1jGY2wOU0fHuQOylbNKpWoCMXusDzkjENRqcfcekE4flqiwsVrgCI9vvaGxQtmHG9qorZny15X949d5vW6ggU3VDqLGiRYQcOR9WiomfF0K/kdVvISWHYyp4ULK3N5X1a07LjJizS8BQXTW26qToGPaKYPAEOwmKC6khfLDpaSDGKeZiNhCg+lwujyL0iecAJ4XPTKPcER5bbk+GFhpg4yNczZAzN4Q/incg54ro2CVjVINHRoOguJ/DYUdSo6nfC3N4KNsR2aKpHeCFdWaI1D39h9LD033CZ2yTO3sKsNg74P82pzOb57GRwMrNZSgXsYCt1ehvjaEB1AqwnKc9D5PMd81MSKHkC28+6/Hn4ANwPc/BbB4RwOck6iOz3n+RuT2jevlnyerZMKxz5MQvwyVs/Ud5vc+JX9NPQvQ3Kc10kOzAKFDn6d4KB8KaufOdmIJJjMSZJMaUJZMZFtGAEyRLTmnNH/sNbj+kWPyL+afF58+uFOntlGQbeDPhlt9uReijyZZof5JRhF5OUc8Cuh62oQ+kCysZhBMHJYiCGS5eXyn1lzQy2I3YmL8+4BXvAwb4RaQuIMnmcQDxiCZSLigEDFfKs6UhJFEpIxHBN9LqYSEaZQAeZ1JyP3TswFKCxN0RdNtwydmRh2g5m4rbAz7Y64s3qIu+6KOzwi7a962/mhdt2NDdN+jQ+L1iNmBEwiQqD3Wtw+8ma0LnIReg0669nOOKx9gqPuxN5qYXtImvYuWZGIzERBt805To8lbKfeVz2kvuvpl75vt6+YzlzfCXtPduuYO/6qyW42k90Ih052d9Bkt7wW6/Xst7Le3jHA7R0DZN4+43SJGeIrhkFnCkMYTb6HZJf3/ID5fvDVzTBYPSE0pQmerRLEvlMfOubwPgz2+rDPwuAUmj9jdL7nHn5b+p9TLfwARYQd+I1vY+yOctX0rlo3WN8YlRid9Ar9PMLQbYk2X+gmXxfhC6HT+J7OOo4snEEFDp1+mBvmiVMmvjC/6J3SytOOMDkhdf3hq4AhXTal6RIwND/hm7gB3Naq3QZ3Whfj/iHhtuNdzH5g6v9dTKAHxrXhdtCXLz+nKCZZfCUu/6YE7qrHLpjD0Kx+OSV9Xf3+zL7/Hw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-09-06T21:06:19.206Z" agent="5.0 (Windows)" etag="NChQv1VS7SmpT8kU2SRq" version="13.6.6" type="gitlab">
+  <diagram id="VCCEHMZqeCSB69VW6X31" name="Page-1">
+    <mxGraphModel dx="1191" dy="811" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="MClPuhdJ_zhgaONTGBiV-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="6OwT0yKRw8m8dUTK9aqE-2" target="MClPuhdJ_zhgaONTGBiV-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="452.5" y="140" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="268" y="200" />
+              <mxPoint x="268" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6OwT0yKRw8m8dUTK9aqE-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="155" y="320" width="595" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="6OwT0yKRw8m8dUTK9aqE-7" value="&lt;font style=&quot;font-size: 16px&quot; face=&quot;Georgia&quot;&gt;Germination &amp;amp; Selection&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="6OwT0yKRw8m8dUTK9aqE-27" target="6OwT0yKRw8m8dUTK9aqE-4" edge="1">
+          <mxGeometry x="0.3912" relative="1" as="geometry">
+            <mxPoint x="292.97000000000025" y="540" as="sourcePoint" />
+            <mxPoint x="477.97" y="475" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="282.97" y="485" />
+              <mxPoint x="252.97" y="485" />
+              <mxPoint x="252.97" y="475" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6OwT0yKRw8m8dUTK9aqE-10" value="&lt;font style=&quot;font-size: 16px&quot; face=&quot;Georgia&quot;&gt;Growth&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="6OwT0yKRw8m8dUTK9aqE-4" target="6OwT0yKRw8m8dUTK9aqE-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="717.97" y="475" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="638" y="430" />
+              <mxPoint x="710" y="430" />
+              <mxPoint x="710" y="520" />
+              <mxPoint x="638" y="520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6OwT0yKRw8m8dUTK9aqE-4" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="612.97" y="450" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6OwT0yKRw8m8dUTK9aqE-11" value="&lt;div style=&quot;font-size: 16px&quot;&gt;&lt;font style=&quot;font-size: 16px&quot; face=&quot;Georgia&quot;&gt;Min. 100 strains&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="202.97000000000003" y="545" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MClPuhdJ_zhgaONTGBiV-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.79;entryY=1.013;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="6OwT0yKRw8m8dUTK9aqE-23" target="6OwT0yKRw8m8dUTK9aqE-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="625" y="634.9999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6OwT0yKRw8m8dUTK9aqE-23" value="&lt;font style=&quot;font-size: 16px&quot; face=&quot;Georgia&quot;&gt;Fluidic System&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="560" y="730" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="MClPuhdJ_zhgaONTGBiV-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.19;entryY=1.009;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="6OwT0yKRw8m8dUTK9aqE-25" target="6OwT0yKRw8m8dUTK9aqE-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="267.97" y="635" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6OwT0yKRw8m8dUTK9aqE-25" value="&lt;font style=&quot;font-size: 16px&quot; face=&quot;Georgia&quot;&gt;Temperature Control System&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="202.97" y="730" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="6OwT0yKRw8m8dUTK9aqE-27" value="&lt;font style=&quot;font-size: 16px&quot; face=&quot;Georgia&quot;&gt;Biomolecular System&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="202.97" y="410" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="6OwT0yKRw8m8dUTK9aqE-28" value="&lt;div style=&quot;font-size: 16px&quot;&gt;&lt;font face=&quot;Georgia&quot;&gt;Microfluidic System&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="387.5" y="350" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MClPuhdJ_zhgaONTGBiV-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="MClPuhdJ_zhgaONTGBiV-1" target="MClPuhdJ_zhgaONTGBiV-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="945" y="125" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MClPuhdJ_zhgaONTGBiV-1" value="&lt;font style=&quot;font-size: 16px&quot; face=&quot;Georgia&quot;&gt;Storage&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="387.5" y="70" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="MClPuhdJ_zhgaONTGBiV-2" value="&lt;font style=&quot;font-size: 16px&quot; face=&quot;Georgia&quot;&gt;Compression&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="560" y="70" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="MClPuhdJ_zhgaONTGBiV-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="MClPuhdJ_zhgaONTGBiV-3" target="MClPuhdJ_zhgaONTGBiV-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="680" y="125" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MClPuhdJ_zhgaONTGBiV-3" value="&lt;font style=&quot;font-size: 16px&quot; face=&quot;Georgia&quot;&gt;Imaging System&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="202.97" y="70" width="130" height="130" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
