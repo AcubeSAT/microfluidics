@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-09-14T19:20:27.048Z" agent="5.0 (Windows)" etag="EBZWITml8nDrkDQyBuz5" version="13.7.0" type="gitlab">
+<mxfile host="app.diagrams.net" modified="2020-09-14T20:18:08.901Z" agent="5.0 (Windows)" etag="Mp16YdRQHRC8lXovFjio" version="13.7.0" type="gitlab">
   <diagram id="P3-YsKaSViBWpfWXX8rw" name="Page-1">
-    <mxGraphModel dx="6290" dy="4903" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="7038" dy="5444" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1136,8 +1136,8 @@
         <mxCell id="GOCW8Aj6e0anN713tclq-378" value="&lt;font style=&quot;font-size: 35px&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 35px&quot; face=&quot;Georgia&quot;&gt;Post-experiment&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="2620.5" y="-461" width="320" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GOCW8Aj6e0anN713tclq-379" value="&lt;font style=&quot;font-size: 35px&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 35px&quot; face=&quot;Georgia&quot;&gt;S1&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="-933" y="-780" width="60" height="30" as="geometry" />
+        <mxCell id="GOCW8Aj6e0anN713tclq-379" value="&lt;font style=&quot;font-size: 35px&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 35px&quot; face=&quot;Georgia&quot;&gt;S1(a-b)&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="-973" y="-780" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GOCW8Aj6e0anN713tclq-380" value="&lt;font style=&quot;font-size: 35px&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 35px&quot; face=&quot;Georgia&quot;&gt;S2&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="-925" y="-180" width="60" height="30" as="geometry" />
