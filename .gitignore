@@ -1,4 +1,6 @@
 *.bak
-*.dwg
 *.dwl
 *.dwl2
+
+# Misc
+.DS_Store
